@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World! I'm Muhamad Rifky Hafan 👋
 
 <!--
 **muriha094/muriha094** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently studying on Universitas Duta Bangsa Surakarta
+- 🌱 I’m currently learning Flutter
+
