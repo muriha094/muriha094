@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently studying on Universitas Duta Bangsa Surakarta
 - 🌱 I’m currently learning Flutter
 
-![fireworks](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWlsb2V0bDgzemMzYWIxY2J2ZnE1YWJxZ3c0dG1lbjhxZjdreXp4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XB9LkLJnm30VJFuULS/giphy.gif)
+![kawai](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzFqZGM1cmNuajU5NGp0OHU5dW5rbmxlemg2enF1NzY1eHMzaWMyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bqSkJ4IwNcoZG/giphy.gif)
 
 
