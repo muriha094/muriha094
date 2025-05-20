@@ -1,6 +1,5 @@
+![muriha094](img/github-header-image.png)
 ## Hello World! I'm Muhamad Rifky Hafan 👋
-
-![muriha094](img/header-bg.png)
 
 <!--
 **muriha094/muriha094** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
