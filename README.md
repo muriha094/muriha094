@@ -1,3 +1,7 @@
+<img src="img/github-header-image.png"  />
+
+###
+
 <h1 align="left">Hey! Nice to see you 🖐️</h1>
 
 ###
