@@ -52,12 +52,12 @@ const rifky = {
 
 <div align="center">
   
-  ## 🎮 Contribution Snake Game
+  ## 🎮 Contribution Pacman Game
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muriha094/muriha094/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muriha094/muriha094/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/muriha094/muriha094/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muriha094/muriha094/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muriha094/muriha094/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/muriha094/muriha094/output/pacman-contribution-graph.svg">
   </picture>
   
 </div>
@@ -144,37 +144,19 @@ const rifky = {
 
 <div align="center">
   
-  ### 🎵 Currently Vibing To
-  
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=1a1b27&border_color=628fdb" />
-  
-  <br/>
-  
   ### 👀 Profile Views Counter
   
   <img src="https://komarev.com/ghpvc/?username=muriha094&label=Profile%20Views&color=628fdb&style=flat-square" alt="Profile Views" />
   
 </div>
 
----
 
-<div align="center">
-  
-  ## 💝 Support My Work
-  
-  If you like what I do, maybe consider buying me a coffee? 🥺👉👈
-  
-  <a href="https://www.buymeacoffee.com/muriha04" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" />
-  </a>
-  
-</div>
+
+
 
 ---
 
 <div align="center">
-  
-  <img src="https://raw.githubusercontent.com/muriha094/muriha094/output/github-contribution-grid-snake.svg" />
   
   ### Thanks for visiting! 😄
   
