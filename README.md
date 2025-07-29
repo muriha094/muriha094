@@ -68,27 +68,21 @@ const rifky = {
   
   ## 🛠️ Tech Stack & Tools
   
-  ### 💻 Programming Languages
   
   <img src="https://skillicons.dev/icons?i=php,java,python,cpp,javascript,html,css" />
   
-  ### 🚀 Frameworks & Libraries
-  
+
   <img src="https://skillicons.dev/icons?i=laravel,bootstrap" />
   
-  ### 🗄️ Databases
   
   <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
   
-  ### 🔧 Development Tools
   
   <img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
   
-  ### 🎨 Design & Others
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="48" alt="canva" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="48" alt="chrome" />
   
 </div>
 
@@ -132,15 +126,6 @@ const rifky = {
 
 ---
 
-<div align="center">
-  
-  ## 💭 Random Dev Quote
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-  
-</div>
-
----
 
 <div align="center">
   
